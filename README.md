@@ -9,6 +9,10 @@ only on the nameplate unfortunately.
 Until this change is implemented into the game, I will have this mod up so people can have it hot-fixed meanwhile as 
 this might be a huge issues for some people.
 
+### Note
+This is a joke, because `Ginn` wants the name `Gin` but it was taken by someone that is not active. If you install this
+you will see `Ginn`'s nameplate with the `Gin` name.
+
 ---
 
 ## Building
