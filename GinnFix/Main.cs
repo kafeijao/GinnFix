@@ -14,7 +14,7 @@ public class GinnFix : MelonMod {
         private static void After_PlayerNameplate_UpdateNamePlate(PlayerNameplate __instance) {
             try {
                 if (__instance.player.userName == "Ginn") {
-                    __instance.usrNameText.text = "Gin";
+                    __instance.usrNameText.text = "Gim";
                 }
             }
             catch (Exception e) {
