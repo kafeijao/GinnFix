@@ -1,5 +1,7 @@
 # Ginn Fix Mod
 
+**Update**: This fix was implemented official in the game!
+
 This mod seeks to correct an issue with the CVR Game, where currently the username `Gin` is shown with 2 `n`, so it ends
 up being `Ginn`.
 
